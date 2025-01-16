@@ -40,20 +40,17 @@ This project is an **Arduino-based distance measurement system** using an **Ultr
 
 Below is a preview of how the system works:
 
-![Preview Image](./device-list.jpg)  screenshots/device-list
-*Example of the distance measurement interface (or image from your app)*
-
 ## 📱 App Preview
 
 | **Device List** | **Device Connection** |
 |------------------|--------------------|
-| ![Device List](screenshots/device-list.jpg) | ![Controller](screenshots/startConnection.jpg) |
+| ![Device List](screenshots/device-list.jpg) | ![Connection](screenshots/startConnection.jpg) |
 
 
 
 ## 📱 Download APK
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://your-apk-link.com)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/Shlok-Android-Dev/Arduino-Bluetooth/blob/main/app/release/Arduino%20Bluetooth.apk)
 
 
 
