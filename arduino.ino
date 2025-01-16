@@ -1,3 +1,5 @@
+// This is the code of Arduino which is used to control the LED strip using Bluetooth.
+
 #include <SoftwareSerial.h>
 #include <FastLED.h>
 #define NUM_LEDS 70

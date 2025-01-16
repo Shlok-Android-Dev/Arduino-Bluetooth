@@ -13,7 +13,7 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
-import com.example.dreamcastbluethoot.R
+import com.example.arduinobluetooth.R
 import java.io.IOException
 import java.io.InputStream
 import java.io.OutputStream

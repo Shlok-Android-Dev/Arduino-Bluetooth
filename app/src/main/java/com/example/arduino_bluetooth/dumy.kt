@@ -12,7 +12,7 @@ import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 import androidx.core.app.ActivityCompat
-import com.example.dreamcastbluethoot.R
+import com.example.arduinobluetooth.R
 import java.util.UUID
 
 

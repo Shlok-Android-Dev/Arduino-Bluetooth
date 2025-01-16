@@ -19,7 +19,7 @@ import android.widget.ListView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
-import com.example.dreamcastbluethoot.R
+import com.example.arduinobluetooth.R
 import com.google.android.material.switchmaterial.SwitchMaterial
 
 class MainActivity : AppCompatActivity(), AdapterView.OnItemClickListener {

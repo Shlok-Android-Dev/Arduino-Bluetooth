@@ -10,7 +10,7 @@ import android.widget.TextView
 import android.bluetooth.BluetoothDevice
 import android.content.pm.PackageManager
 import androidx.core.app.ActivityCompat
-import com.example.dreamcastbluethoot.R
+import com.example.arduinobluetooth.R
 
 class DeviceListAdapter(
     context: Context,
