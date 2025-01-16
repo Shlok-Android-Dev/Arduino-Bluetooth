@@ -9,7 +9,7 @@
 
 ## 📱 Download APK
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://your-apk-link.com)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/Shlok-Android-Dev/Arduino-Bluetooth/blob/main/app/release/Arduino%20Bluetooth.apk)
 
 ---
 
